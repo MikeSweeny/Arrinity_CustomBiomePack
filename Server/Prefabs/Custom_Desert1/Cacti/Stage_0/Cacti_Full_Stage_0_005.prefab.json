@@ -1,0 +1,28 @@
+{
+  "version": 8,
+  "blockIdVersion": 11,
+  "anchorX": 0,
+  "anchorY": 1,
+  "anchorZ": 0,
+  "blocks": [
+    {
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "name": "Plant_Cactus_2",
+      "components": {
+        "Components": {
+          "FarmingBlock": {
+            "LastTickGameTime": "0001-01-01T12:00:00Z"
+          }
+        }
+      }
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "z": 0,
+      "name": "Plant_Cactus_Flower"
+    }
+  ]
+}

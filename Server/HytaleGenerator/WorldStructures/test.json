@@ -1,0 +1,73 @@
+{
+  "Type": "NoiseRange",
+  "Biomes": [
+    {
+      "Biome" : "Custom_Desert1_Oasis_Dunes",
+      "Min" : -1,
+      "Max" : 1
+    }
+  ],
+  "DefaultBiome": "Basic",
+  "DefaultTransitionDistance": 35,
+  "MaxBiomeEdgeDistance" : 35,
+  "Density": {
+    "Type" : "Imported",
+    "Name" : "Biome-Map"
+  },
+  "SpawnPositions" : {
+    "Type" : "Imported",
+    "Name" : "Spawns"
+  },
+  "Framework" : [
+    {
+      "Type" : "Positions",
+      "Entries" : [
+        {
+          "Name" : "Spawns",
+          "Positions" : {
+            "Type" : "List",
+            "ExportAs" : "Spawns",
+            "Positions": [
+              {
+                "X": 0,
+                "Y": 200,
+                "Z": 0
+              },
+              {
+                "X": 30,
+                "Y": 200,
+                "Z": 0
+              },
+              {
+                "X": 10,
+                "Y": 200,
+                "Z": 20
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "Type" : "DecimalConstants",
+      "Entries" : [
+        {
+          "Name" : "Base",
+          "Value" : 100
+        },
+        {
+          "Name" : "Water",
+          "Value" : 100
+        },
+        {
+          "Name" : "Roof",
+          "Value" : 170
+        },
+        {
+          "Name" : "Bedrock",
+          "Value" : 0
+        }
+      ]
+    }
+  ]
+}
