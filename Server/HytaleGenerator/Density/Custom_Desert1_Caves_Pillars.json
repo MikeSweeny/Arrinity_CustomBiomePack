@@ -33,8 +33,8 @@
 											"Skip":	false,
 											"FromMin":	-1,
 											"FromMax":	1,
-											"ToMin":	-0.6,
-											"ToMax":	0.9,
+											"ToMin":	-0.55,
+											"ToMax":	0.95,
 											"Inputs":	[{
 													"$NodeId":	"CellNoise2DDensityNode-5a62d43e-f6ec-4782-87f4-8d5cc43e8413",
 													"Type":	"CellNoise2D",
@@ -63,7 +63,7 @@
 									}, {
 										"$NodeId":	"CurvePoint-68789a2a-bb27-49ed-8a43-66bcdcbf0af8",
 										"In":	70,
-										"Out":	0.12
+										"Out":	0.15
 									}, {
 										"$NodeId":	"CurvePoint-434df876-421c-4fd1-b468-4c281789a651",
 										"In":	60,

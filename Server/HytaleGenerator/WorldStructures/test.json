@@ -2,7 +2,7 @@
   "Type": "NoiseRange",
   "Biomes": [
     {
-      "Biome" : "Custom_Desert1_Oasis_Dunes",
+      "Biome" : "Custom_Desert1_Oasis_MudFlats",
       "Min" : -1,
       "Max" : 1
     }
