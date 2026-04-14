@@ -77,7 +77,7 @@
 											"Inclusive":	true,
 											"Materials":	[{
 													"$NodeId":	"Material-0eb41946-b0cd-4b06-9ff8-c0bf394ca723",
-													"Solid":	"Soil_Sand_White",
+													"Solid":	"Soil_Sand_Ashen",
 													"SolidBottomUp":	false
 												}]
 										}
@@ -153,7 +153,7 @@
 											"Inclusive":	true,
 											"Materials":	[{
 													"$NodeId":	"Material-f3463788-b65f-4ec7-b3cd-5ce108d78c0c",
-													"Solid":	"Soil_Sand_White",
+													"Solid":	"Soil_Sand_Ashen",
 													"SolidBottomUp":	false
 												}]
 										}
@@ -307,7 +307,7 @@
 											"Inclusive":	true,
 											"Materials":	[{
 													"$NodeId":	"Material-69c83bbe-727a-4049-8780-555b9828def6",
-													"Solid":	"Soil_Sand_White",
+													"Solid":	"Soil_Sand_Ashen",
 													"SolidBottomUp":	false
 												}, {
 													"$NodeId":	"Material-15f2de53-61ff-4bca-ae3f-4a4f623e07a4",
